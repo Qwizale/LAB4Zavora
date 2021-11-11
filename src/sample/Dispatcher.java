@@ -25,6 +25,7 @@ public class Dispatcher {
                 answer = "Flight number: " + flightNumber + " Take off runway " + freeRunway;
             }
 
+
             Tableau.printToTableau(plane, answer);
         }
     }
